@@ -11,7 +11,7 @@ export default {
       email: "",
       password: ""
     },
-    error: ""
+    error: "",
   }),
 
   methods: {
